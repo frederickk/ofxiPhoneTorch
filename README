@@ -1,7 +1,6 @@
 /*
- *  ofxiPhoneTorch
- *  openframeworks.cc
- *
+ *  ofxiPhoneTorch.h
+ *	
  *  Ken Frederick
  *  ken.frederick@gmx.de
  *
@@ -13,8 +12,8 @@
 
 // About
 // -----------------------------------------
-A wrapper for toggling the iphone 4 "camera flash"/torch with some help from http://stackoverflow.com/questions/3190034/turn-on-torch-flash-on-iphone-4/3367424#3367424
+this is a wrapper for toggling the iphone 4 "camera flash"/torch
+intended as an addon for openframeworks.cc with some help:
+http://stackoverflow.com/questions/3190034/turn-on-torch-flash-on-iphone-4/3367424#3367424
 
-
-
-source:  https://github.com/frederickk/ofxiPhoneTorch
+source: https://github.com/frederickk/ofxiPhoneTorch/
